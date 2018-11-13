@@ -140,6 +140,8 @@ Untuk implementasi slider, saya mengambil contoh sliders dari aplikasi JD.id, sa
 
 ![Screenshot-2](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/Screenshot_20181113-224702.png?raw=true)
 
+Sliders terdapat pada filter penentuan range harga yang diinginkan oleh calon pembeli. Pengguna cukup menggeser thumb yang ada pada slider untuk menentukan batas bawah dan batas atas range harga yang diinginkan.
+
 ## Referensi
 
 - Material.io: https://material.io/design/components/sliders.html
