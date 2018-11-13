@@ -1,5 +1,7 @@
 # GUI Component - Sliders
 
+![Sliders](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/sliders.png?raw=true)
+
 ## Definisi
 
 Sliders atau *track bar* adalah elemen kontrol grafis dimana pengguna dapat menetapkan nilai dengan menggerakkan indikator, biasanya secara horizontal. Dalam beberapa kasus, pengguna juga dapat mengklik pada suatu titik pada Sliders untuk mengubah pengaturan.
