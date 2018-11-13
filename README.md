@@ -8,6 +8,8 @@ Sliders atau *track bar* adalah elemen kontrol grafis dimana pengguna dapat mene
 
 ## Penggunaan
 
+![Penggunaan](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/penggunaan.png?raw=true)
+
 Sliders mencerminkan rentang nilai di sepanjang *bar*, dimana pengguna dapat memilih suatu nilai. Sliders sangat cocok untuk menyesuaikan pengaturan seperti rentang harga pada aplikasi toko online, *volume*, kecerahan, atau menerapkan filter pada suatu gambar.
 
 ## Prinsip
@@ -16,13 +18,19 @@ Sliders memiliki tiga prinsip.
 
 1. Adjustable
 
+![Adjustable](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/prinsip1.png?raw=true)
+
 Sliders hanya boleh digunakan untuk memilih pilihan dari range  nilai yang telah ditetapkan.
 
 2. Immediate
 
+![Immediate](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/prinsip2.png?raw=true)
+
 Sliders harus merepresentasikan secara real-time ketika pengguna berinteraksi dengan Sliders.
 
 3. Accessible
+
+![Accessible](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/prinsip3.png?raw=true)
 
 Sliders harus menyediakan berbagai pilihan lengkap dalam range yang tersedia bagi pengguna untuk dipilih.
 
@@ -32,13 +40,19 @@ Sliders memiliki dua tipe.
 
 - Continuous sliders
 
+![Continuous](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/tipe1.png?raw=true)
+
 Continous sliders memungkinkan pengguna memilih nilai sepanjang rentang subyektif.
 
 - Discrete sliders
 
+![Discrete](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/tipe2.png?raw=true)
+
 Discrete sliders dapat disesuaikan dengan nilai tertentu dengan merujuk pada indikator nilainya.
 
 ## Anatomi
+
+![Anatomi](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/anatomi.png?raw=true)
 
 Sliders dapat berisi elemen-elemen berikut.
 
@@ -111,9 +125,22 @@ Value entry field dapat diedit setelah memilih bidang thumb atau entri. Setelah 
 Continuous sliders
 ------------------
 
+![Continuous](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/spec1.png?raw=true)
+
 Discrete sliders
 ----------------
+
+![Discrete](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/spec2.png?raw=true)
 
 ## Implementasi Sliders
 
 Untuk implementasi slider, saya mengambil contoh sliders dari aplikasi JD.id, salah satu e-commerce besar di Indonesia.
+
+![Screenshot-1](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/Screenshot_20181113-224650.png?raw=true)
+
+![Screenshot-2](https://github.com/zakigeyan/GUI-Component-Sliders/blob/master/Screenshot_20181113-224702.png?raw=true)
+
+## Referensi
+
+- Material.io: https://material.io/design/components/sliders.html
+- Nielsen Norman Group: https://www.nngroup.com/articles/gui-slider-controls/
